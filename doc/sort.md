@@ -1,4 +1,4 @@
-# 排序算法
+# [排序算法](../xmind/algorithms.xminds)
 
 + [冒泡排序](../lib/sort/bubble.js)
 + [选择排序](../lib/sort/select.js)
